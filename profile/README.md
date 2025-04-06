@@ -1,5 +1,5 @@
-![Cryptotou Banner](../assets/logos/cryptotou-white-192.png#gh-dark-mode-only)
-![Cryptotou Banner](../assets/logos/cryptotou-192.png#gh-light-mode-only)
+![Cryptotou Banner](../assets/logos/cryptotou-white.svg#gh-dark-mode-only)
+![Cryptotou Banner](../assets/logos/cryptotou.svg#gh-light-mode-only)
 
 Cryptotou is a GitHub organization developing **[Cryptorii](https://cryptorii.com)**, a cryptocurrency analysis platform providing insightful data and tools for market participants.
 Our goal is to offer analysis comparable to platforms like Glassnode and IntoTheCryptoverse.
