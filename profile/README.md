@@ -1,5 +1,3 @@
-# Welcome to Cryptotou 👋
-
 ![Cryptotou Banner](../assets/logos/cryptotou-white-192.png#gh-dark-mode-only)
 ![Cryptotou Banner](../assets/logos/cryptotou-192.png#gh-light-mode-only)
 
